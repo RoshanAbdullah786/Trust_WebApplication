@@ -1,0 +1,77 @@
+#features{
+ width: 100vw;  
+ height: 100vh;
+ background-color: #fff; 
+margin-top: 20%;
+font-family: 'DM Sans';
+}
+#features-1-1{
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    color: rgb(58, 57, 57);
+    font-size: 14.5px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#features-1-2{
+    display: block;
+    text-align: center;
+    font-size: 32px;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#service-btn{
+    display: block;
+    text-align: center;
+    min-width: 180px;
+    max-width: 185px;
+    padding: 10px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: crimson;
+    border-radius: 60px;
+    letter-spacing: 1.55px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.features-division{
+ height: 220px;
+ background-color:#EDF7FF;
+ margin: 10px 15px;
+ width: 100%;
+
+}
+#feau-divi{
+    display: flex;
+    width: 89%;
+    height: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+#homw-icn{
+    margin-top: 30px;
+    margin-left:15px ;
+    font-size: 50px;
+    color: #364D59;
+    display: block;
+}
+.feau-diviv-sechea{
+    display: block;
+    margin-top: 6px;
+    margin-left:15px ;
+    color: #364D59;
+    font-size: 19px;
+}
+.feau-diviv-secpar{
+    display: block;
+    margin-left:15px ;
+    color: #9AA3A6;
+    margin-top: 10px;
+    font-size: 15px;
+}

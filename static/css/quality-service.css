@@ -1,0 +1,60 @@
+#quality-service{
+    display: block;
+    height: 60vh;
+    width: 100vw;
+    background-color: rgb(83, 135, 75);
+    padding-top: 30px;
+    font-family: 'DM Sans';
+    margin-left: auto;
+    margin-right: auto;
+    background-image:url("../img/div2.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+#quality-service-in{
+    display: block;
+    width: 50vw;
+    height: 20vh;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #fff;
+}
+#quality-service-head{
+    display: block;
+    font-size: 40px;
+    letter-spacing: 1.7px;
+    word-spacing: 5px;
+    padding: 18px;
+}
+#quality-service-cont{
+    margin-top: 10px;
+    display: block;
+    font-size: 20px;
+    letter-spacing: 1.3px;
+    word-spacing: 5px;
+    padding: 20px;
+}
+#quality-service-border{
+    height: 1.5px;
+    width: 8vw;
+    background-color: #DC3545; 
+    margin-left: auto;
+    margin-right: auto;
+}
+#quality-service-btn{
+    display: block;
+    text-align: center;
+    min-width: 180px;
+    max-width: 185px;
+    padding: 10px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #DC3545;
+    border-radius: 60px;
+    letter-spacing: 1.55px;
+    color: #fff;
+    margin-top: 5%;
+}

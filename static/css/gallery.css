@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0ch;
+}
+
+#main_body{
+    width: 100vw;
+    height: 100vh;
+    background-color: brown;
+    font-family: 'DM Sans';
+}
+#heading{
+    font-size: 40px;
+    text-align: center;
+    padding: 1%;
+}
+#sub_body{
+    width: 92vw;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.folder{
+    width: 190px;
+    min-width:190px;
+    max-width: 190px;
+    display: inline-block;
+    margin-bottom: 1%;
+    border: 1px dotted pink;
+}
+#center{
+    margin-left: 1%;
+}
+.img_cont{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 4%;
+}
+.folderin{
+    margin-left: 5%;
+}
+.image{
+    height: 150px;
+    width: 170px;
+    margin-top: 1%;
+}
+.folder_name{
+    color: white;
+}

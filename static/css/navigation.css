@@ -1,0 +1,62 @@
+#body1{
+    width: 100vw;
+    background-image:url("../img/div1.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+#navigation{
+    width: 77%;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    z-index: 2;
+    font-family: 'DM Sans';
+}
+#loc-icon,#schedule-icon{
+    color: crimson;
+    font-size: 40px;
+    margin: 0px 15px 0 0;
+}
+#nav-1-2-2{
+    margin-right: 15px;
+}
+#nav-1{
+    display: flex;
+    color: white;
+}
+#nav-1-1 span{
+    font-size: 43px;
+}
+#nav-1-2{
+    display: flex;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
+#nav-2{
+    display: flex;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+#nav-2-1{
+    display: flex;
+
+}
+.nav-2-1-cont{
+    margin-right: 30px;
+}
+#nav-2-1-1{
+    margin-left: 10px;
+    color: red;
+}
+#nav-2-2{
+    display: flex;
+    margin-left: auto;
+    color: red;
+}
+#nav-2-2 div{
+    margin: 0 20px;
+}
+#dot{
+    color: red;
+}

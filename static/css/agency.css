@@ -1,0 +1,37 @@
+#agency{
+    display: block;
+    height: 50vh;
+    width: 100vw;
+    background-color: rgb(83, 135, 75);
+    padding-top: 30px;
+    font-family: 'DM Sans';
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../img/div6.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+#agency-in{
+    display: block;
+    width: 45vw;
+    height: 20vh;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #fff;
+}
+#agency-head{
+    display: block;
+    font-size: 20px;
+    letter-spacing: 1.7px;
+    word-spacing: 5px;
+}
+#agency-cont{
+    margin-top: 10px;
+    display: block;
+    font-size: 32px;
+    letter-spacing: 1.3px;
+    word-spacing: 5px;
+}

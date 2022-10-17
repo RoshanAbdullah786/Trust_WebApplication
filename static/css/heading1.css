@@ -1,0 +1,45 @@
+#heading-1{
+    color: #fff;
+    font-family: 'DM Sans';
+    display: flex;
+    width: 77%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 200px;
+}
+#dot-img{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+}
+#first-heading{
+    font-size:48px ;
+}
+#heading-1-1{
+    padding-right: 5%;
+    padding-left: 2%;
+    width: 50%;
+}
+#heading-1-1-1-1{
+    width: 50%;
+}
+#heading-1-2{
+    margin-top: 13px;
+    line-height: 30px;
+    font-size: 18px;  
+}
+#heading-1-3{
+    margin-top: 40px;
+    padding: 10px 20px;
+    background-color: crimson;
+    border-radius: 60px;
+    width: 90px;
+    letter-spacing: 2px;
+}
+#dot-image{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+
+}

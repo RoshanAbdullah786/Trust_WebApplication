@@ -1,0 +1,45 @@
+#info{
+    background-color: #222222;
+    width: 100vw;
+    height: 40vh;
+    padding-top: 3%;
+    font-family: 'DM Sans';
+}
+#info-cont{
+    height: 35vh;
+    width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+
+}
+.info-box{
+    width: 30%;
+    margin-left: 2.5%;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 30vh;
+    display: flex;
+
+}
+.info-info{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.info-box span{
+    display: block;
+}
+.info-info-1{
+    font-size: 40px;
+    color: #FFD692;
+}
+.info-info-2{
+    font-size: 20px;
+    margin-top: 0;
+    color: #ffffffB3;
+}
+#dom-icon,#hom-icon,#code-icon{
+    font-size: 80px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
